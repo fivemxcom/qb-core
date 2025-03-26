@@ -1,9 +1,17 @@
 # qb-core
 
+## Sites
+
 ### [Official QBCore Documentation](https://docs.qbcore.org)
 ### [Official QBCore Website](https://qbcore.net/)
 
-### [Marketplace for FiveM Mods](https://fivemx.com/)
+## Resources
+
+### [Paid QBCore Scripts](https://fivemx.com/qbcore-scripts/)
+### [Free QBCore Scripts](https://forum.cfx.re/tags/c/releases/7/qbcore)
+
+# Other
+#### [Marketplace for FiveM Mods](https://fivemx.com/)
 
 # License
 
